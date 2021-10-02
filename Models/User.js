@@ -1,0 +1,1 @@
+exports.user = () => console.log("This is a user model")
